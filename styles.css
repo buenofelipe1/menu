@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: aqua;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+li {
+    display:inline;
+  }
+  
+.list {
+     overflow-x:hidden;
+   
+}
+
+
+
+
+
+.nav{
+
+
+
+}
+
+
+.main{
+  background-color: #FFEB3B;
+  height: 484px;
+}
+.footer{
+  background-color: aquamarine;
+  height: 70px;
+}
+;
+  display: flex;
+  /* justify-content: space-between; */
+  /* align-items: center; */
